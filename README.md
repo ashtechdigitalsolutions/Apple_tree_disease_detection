@@ -1,3 +1,4 @@
+Dataset link to access dataset: https://www.kaggle.com/datasets/ludehsar/apple-disease-dataset/data
 Apple Leaf Disease Detection and Recommendation System
 The Apple Leaf Disease Detection and Recommendation System is an AI-based solution designed to identify common apple leaf diseases and provide actionable recommendations for treatment and prevention. Using a Convolutional Neural Network (CNN) model, the system efficiently classifies leaf images into four categories:
 
